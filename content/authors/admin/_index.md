@@ -48,9 +48,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=CKfiatwAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/bbardoczy
@@ -74,3 +74,5 @@ user_groups:
 ---
 
 I am currently a PhD Candidate at Northwestern University. I am interested in how micro heterogeneity interacts with the macroeconomy and affects macroeconomic policy.
+
+Email: bardoczy@u.northwestern.edu
