@@ -100,7 +100,7 @@ address = {street = "2211 Campus Drive", city = "Evanston", region = "IL", postc
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "I share room 3388 in the [Kellogg Global Hub](https://www.google.com/maps/place/Kellogg+Global+Hub/@42.0573724,-87.6748064,16.75z/data=!4m5!3m4!1s0x880fda9e72756799:0xee8a28a6fcc18ccd!8m2!3d42.0574063!4d-87.6722787)."
+#directions = "I share room 3388 in the [Kellogg Global Hub](https://www.google.com/maps/place/Kellogg+Global+Hub/@42.0573724,-87.6748064,16.75z/data=!4m5!3m4!1s0x880fda9e72756799:0xee8a28a6fcc18ccd!8m2!3d42.0574063!4d-87.6722787)."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
