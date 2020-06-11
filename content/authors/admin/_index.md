@@ -74,5 +74,3 @@ user_groups:
 ---
 
 I am currently a PhD Candidate at Northwestern University. I am interested in how micro heterogeneity interacts with the macroeconomy and affects macroeconomic policy.
-
-Email: bardoczy@u.northwestern.edu
