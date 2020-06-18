@@ -9,6 +9,7 @@ weight = 90  # Order that this section will appear.
 
 title = "Research"
 subtitle = ""
+url = "#research"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

@@ -5,7 +5,7 @@ publishDate: 2020-06-18T14:37:16.459582Z
 authors: ["Adrien Auclert", "Bence Bardóczy", "Matthew Rognlie", "Ludwig Straub"]
 publication_types: ["3"]
 abstract: "We propose a general and highly efficient method for solving and estimating general equilibrium heterogeneous-agent models with aggregate shocks in discrete time."
-featured: false
+featured: true
 publication: "Under Revision for _Econometrica_"
 ---
 
