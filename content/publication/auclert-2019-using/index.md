@@ -21,7 +21,7 @@ publication: "Revise and Resubmit for _Econometrica_"
 slides: ""
 image:
    caption: 'One-Asset HANK Model as a Directed Acyclical Graph'
-   preview_only:
+   preview_only: false
 
 links:
 <!-- - name: Custom Link -->
