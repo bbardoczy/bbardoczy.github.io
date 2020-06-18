@@ -10,7 +10,8 @@ sequences around the steady state. We provide a fast algorithm for computing Jac
 featured: true
 publication: "Under Revision for _Econometrica_"
 slides: ""
-<!-- image: -->
-<!-- caption: DAG representation -->
+image:
+   caption: "DAG representation of One-Asset HANK"
+   preview_only: true
 ---
 
