@@ -11,7 +11,7 @@ featured: true
 publication: "Under Revision for _Econometrica_"
 slides: ""
 image:
-   caption: "DAG representation of One-Asset HANK"
-   preview_only: true
+   caption: 'DAG representation of One-Asset HANK'
+   preview_only: false
 ---
 
