@@ -18,21 +18,10 @@ featured: false
 
 publication: "Revise and Resubmit for _Econometrica_"
 
+url_code: https://github.com/shade-econ/sequence-jacobian
+
 slides: ""
 image:
    caption: 'One-Asset HANK Model as a Directed Acyclical Graph'
    preview_only: false
-
-links:
-<!-- - name: Custom Link -->
-  <!-- url: http://example.org -->
-<!-- url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf -->
-url_code: https://github.com/shade-econ/sequence-jacobian
-<!-- url_dataset: '#' -->
-<!-- url_poster: '#' -->
-<!-- url_project: '' -->
-<!-- url_slides: '' -->
-<!-- url_source: '#' -->
-<!-- url_video: '#' -->
 ---
-
