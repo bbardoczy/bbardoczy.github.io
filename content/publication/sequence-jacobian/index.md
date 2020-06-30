@@ -22,6 +22,6 @@ url_code: https://github.com/shade-econ/sequence-jacobian
 
 slides: ""
 image:
-   caption: 'One-Asset HANK Model as a Directed Acyclical Graph'
+   caption: 'Two-Asset HANK Model as a Directed Acyclical Graph'
    preview_only: false
 ---
