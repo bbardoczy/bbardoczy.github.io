@@ -19,8 +19,8 @@ publication: "Manuscript"
 
 <!-- url_code: https://github.com/shade-econ/sequence-jacobian -->
 
-slides: "The trilemma"
+slides: ""
 image:
-   caption: ''
+   caption: 'The trilemma'
    preview_only: false
 ---
