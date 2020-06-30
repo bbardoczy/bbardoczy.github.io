@@ -16,7 +16,7 @@ sequences around the steady state. We provide a fast algorithm for computing Jac
 
 featured: false
 
-publication: "Revise and Resubmit for _Econometrica_"
+publication: "Revise and Resubmit at _Econometrica_"
 
 url_code: https://github.com/shade-econ/sequence-jacobian
 
