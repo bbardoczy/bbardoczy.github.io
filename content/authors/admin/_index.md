@@ -73,4 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a PhD Candidate at Northwestern University. I am interested in how micro heterogeneity interacts with the macroeconomy and affects macroeconomic policy.
+Welcome to my website! I am a macroeconomist interested in how micro heterogeneity interacts with the macroeconomy and affects economic policy.
+
+I am currently a PhD Candidate in Economics at Northwestern University. I will be on the job market in 2020-2021. 
