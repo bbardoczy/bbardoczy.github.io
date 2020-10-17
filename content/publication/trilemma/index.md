@@ -15,7 +15,7 @@ abstract: "We establish an impossibility result for New Keynesian models with a 
 
 featured: false
 
-publication: "Manuscript"
+publication: "Revise and Resubmit at _The Review of Economics and Statistics_"
 
 <!-- url_code: https://github.com/shade-econ/sequence-jacobian -->
 
