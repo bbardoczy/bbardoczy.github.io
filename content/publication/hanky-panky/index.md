@@ -14,10 +14,10 @@ publishDate: 2020-09-08T12:36:38+02:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Job Market Paper, **draft coming soon**"
+publication: "Job Market Paper"
 publication_short: ""
 
-abstract: "I document that spousal labor supply substantially mitigates the impact of cyclical labor income risk on married households. Motivated by this evidence, I present a macroeconomic model with incomplete markets in which households are heterogeneous by gender and marital status. Couples can smooth their consumption over the business cycle better than singles because (i) spouses rarely lose their jobs at the same time; and (ii) secondary earners can increase their labor supply on the extensive margin in response to a job loss of the primary earner. According to my estimated model, spousal insurance mitigates the volatility of aggregate consumption by about 40%. Spousal insurance acts as a powerful automatic stabilizer because it weakens the general-equilibrium feedback between unemployment risk and economic activity. My model clarifies the circumstances under which this automatic stabilizer is stronger or weaker. Spousal insurance is particularly powerful in recession caused by traditional demand shocks. It is less powerful in recessions caused by shocks like the current COVID epidemic."
+abstract: "I document that spousal labor supply substantially mitigates the impact of cyclical labor income risk on married households. Motivated by this evidence, I present a macroeconomic model with incomplete markets in which households are heterogeneous by gender and marital status. Couples can smooth their consumption over the business cycle better than singles because (i) spouses rarely lose their jobs at the same time; and (ii) secondary earners can increase their labor supply on the extensive margin in response to a job loss of the primary earner. According to my estimated model, spousal insurance mitigates the volatility of aggregate consumption by about 40%. Spousal insurance acts as a powerful automatic stabilizer because it weakens the general-equilibrium feedback between unemployment risk and economic activity. My model clarifies the circumstances under which this automatic stabilizer is stronger or weaker. Spousal insurance is particularly powerful in recessions caused by traditional demand shocks. It is less powerful in recessions caused by shocks like the current COVID epidemic."
 
 # Summary. An optional shortened abstract.
 summary: ""
