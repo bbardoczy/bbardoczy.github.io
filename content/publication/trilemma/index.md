@@ -24,5 +24,5 @@ image:
 
 links:
     name: Slides
-    url: 'trilemma_slides.pdf'
+    url: trilemma_slides.pdf
 ---
