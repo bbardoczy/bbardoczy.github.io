@@ -19,7 +19,7 @@ publication: "Revise and Resubmit at _The Review of Economics and Statistics_"
 
 <!-- url_code: https://github.com/shade-econ/sequence-jacobian -->
 
-slides: ""
+<!-- slides: "slides" -->
 image:
    caption: 'The trilemma'
    preview_only: false
