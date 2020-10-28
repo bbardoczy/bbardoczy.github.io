@@ -21,8 +21,4 @@ publication: "Revise and Resubmit at _The Review of Economics and Statistics_"
 image:
    caption: 'The trilemma'
    preview_only: false
-
-links:
-    name: Slides
-    url: trilemma_slides.pdf
 ---
