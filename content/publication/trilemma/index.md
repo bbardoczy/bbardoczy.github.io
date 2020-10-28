@@ -17,10 +17,12 @@ featured: false
 
 publication: "Revise and Resubmit at _The Review of Economics and Statistics_"
 
-links = [{name = "Slides", url="trilemma_slides.pdf"}
-
 <!-- slides: "slides" -->
 image:
    caption: 'The trilemma'
    preview_only: false
+
+links:
+    name: Slides
+    url: 'trilemma_slides.pdf'
 ---
