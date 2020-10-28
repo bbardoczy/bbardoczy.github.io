@@ -17,6 +17,11 @@ featured: false
 
 publication: "Revise and Resubmit at _The Review of Economics and Statistics_"
 
+link:
+  name = "Slides"
+  url = "files/trilemma_slides.pdf"
+
+
 <!-- slides: "slides" -->
 image:
    caption: 'The trilemma'
