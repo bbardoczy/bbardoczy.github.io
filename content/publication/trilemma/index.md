@@ -18,7 +18,7 @@ featured: false
 publication: "Revise and Resubmit at _The Review of Economics and Statistics_"
 
 <!-- url_code: https://github.com/shade-econ/sequence-jacobian -->
-url_slides: "slides.pdf"
+url_slides: slides.pdf
 
 <!-- slides: "slides" -->
 image:
