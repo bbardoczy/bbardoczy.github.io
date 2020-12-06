@@ -1,8 +1,7 @@
 ---
 title: "Spousal Insurance and the Amplification of Business Cycles"
 authors: ["Bence Bardóczy"]
-date: 2020-09-08T12:36:38+02:00
-doi: ""
+date: 2020-12-05
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-08T12:36:38+02:00
