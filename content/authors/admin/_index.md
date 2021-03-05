@@ -75,4 +75,4 @@ user_groups:
 
 Welcome to my website! I am a macroeconomist interested in how micro heterogeneity interacts with the macroeconomy and affects economic policy.
 
-I am currently a PhD candidate at Northwestern University. I am on the job market this year and available for interviews before, during, and after the 2021 EEA and ASSA meetings. 
+I am currently a PhD candidate at Northwestern University. I will join the Federal Reserve Board of Governors as an economist in September 2021.
