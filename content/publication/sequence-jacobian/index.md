@@ -1,9 +1,9 @@
 ---
 title: "Using the Sequence-Space Jacobian to Solve and Estimate Heterogeneous-Agent Models"
 
-date: 2020-11-26
+date: 2021-03-28
 
-publishDate: 2020-06-18T14:37:16.459582Z
+publishDate: 2021-03-27T14:37:16.459582Z
 
 authors: ["Adrien Auclert", "Bence Bardóczy", "Matthew Rognlie", "Ludwig Straub"]
 
@@ -15,7 +15,7 @@ abstract: "We propose a general and highly efficient method for solving and esti
 
 featured: false
 
-publication: "Resubmitted to _Econometrica_"
+publication: "Forthcoming at _Econometrica_"
 
 url_code: https://github.com/shade-econ/sequence-jacobian
 
