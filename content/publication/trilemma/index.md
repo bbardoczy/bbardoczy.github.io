@@ -1,5 +1,5 @@
 ---
-title: "MPCs, MPEs and Multipliers: A Trilemma for New Keynesian Models"
+title: "MPCs, MPEs, and Multipliers: A Trilemma for New Keynesian Models"
 
 date: 2021-03-05
 
@@ -21,7 +21,7 @@ HANK model with sticky wages provides a solution to this trilemma."
 
 featured: false
 
-publication: "Forthcoming at _The Review of Economics and Statistics_"
+publication: "Forthcoming at the _Review of Economics and Statistics_"
 
 <!-- url_code: https://github.com/shade-econ/sequence-jacobian -->
 
