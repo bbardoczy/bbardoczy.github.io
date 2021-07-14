@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "bardoczy@u.northwestern.edu"
+email = "bence.a.bardoczy@frb.gov"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2211 Campus Drive", city = "Evanston", region = "IL", postcode = "60208", country = "United States", country_code = "US"}
+address = {street = "2001 C St NW", city = "Washington", region = "DC", postcode = "20006", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "38.89390504464865", longitude = "-77.04601784608234"}
 
 # Directions for visitors to locate you.
 #directions = "I share room 3388 in the [Kellogg Global Hub](https://www.google.com/maps/place/Kellogg+Global+Hub/@42.0573724,-87.6748064,16.75z/data=!4m5!3m4!1s0x880fda9e72756799:0xee8a28a6fcc18ccd!8m2!3d42.0574063!4d-87.6722787)."

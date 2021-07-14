@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Economics PhD Candidate
+role: Economist
 
 # Organizations/Affiliations
 organizations:
-- name: Northwestern University
-  url: "https://www.northwestern.edu/"
+- name: Federal Reserve Board of Governors
+  url: "https://www.federalreserve.gov/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include macroeconomics, monetary policy, and labor economics.
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Northwestern University
-    year: ongoing
+    year: 2021
   - course: MSc in Economics
     institution: Institute for Advanced Studies, Vienna
     year: 2015
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:bardoczy@u.northwestern.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:bence.a.bardoczy@frb.gov"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -73,6 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website! I am a macroeconomist interested in how micro heterogeneity interacts with the macroeconomy and affects economic policy.
-
-I am currently a PhD candidate at Northwestern University. I will join the Federal Reserve Board of Governors as an economist in August 2021.
+I am a macroeconomist interested in how micro heterogeneity interacts with the macroeconomy and affects economic policy. I work as an Economist in the Division of Research and Statistics at the Federal Reserve Board of Governors.
