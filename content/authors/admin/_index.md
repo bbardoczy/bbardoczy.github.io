@@ -14,7 +14,7 @@ role: Economist
 
 # Organizations/Affiliations
 organizations:
-- name: Federal Reserve Board of Governors
+- name: Federal Reserve Board
   url: "https://www.federalreserve.gov/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -74,3 +74,5 @@ user_groups:
 ---
 
 I am a macroeconomist interested in how micro heterogeneity interacts with the macroeconomy and affects economic policy. I work as an Economist in the Division of Research and Statistics at the Federal Reserve Board of Governors.
+
+The views expressed on this website are my own and do not necessarily reflect those of the Board of Governors or the Federal Reserve System.
