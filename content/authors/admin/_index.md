@@ -54,9 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/bbardoczy
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/bence-bardóczy-80817635/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/bence-bardóczy-80817635/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am a macroeconomist interested in how micro heterogeneity interacts with the macroeconomy and affects economic policy. I work as an Economist in the Division of Research and Statistics at the Federal Reserve Board of Governors.
+I am an Economist at the [Federal Reserve Board of Governors](https://www.federalreserve.gov/econres/bence-a-bardoczy.htm), where I serve in the [Macroeconomic and Quantitative Studies](https://www.federalreserve.gov/econres/rsmaqs-staff.htm) section within the Division of Research and Statistics. My research focuses on how micro heterogeneity interacts with the macroeconomy and affects economic policy.
 
-The views expressed on this website are my own and do not necessarily reflect those of the Board of Governors or the Federal Reserve System.
+This is a personal website. The views expressed on this website are my own and do not necessarily reflect those of the Board of Governors or the Federal Reserve System.
