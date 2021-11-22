@@ -17,6 +17,6 @@ header:
 
 #### Conference Discussions
 
-- Munseob Lee, Claudia Macaluso and Felipe Schwartzman: *Minority Unemployment, Inflation, and Monetary Policy*
-    - {{% staticref "files/minority-unemployment/paper.pdf" %}}Paper{{% /staticref %}}, {{% staticref "files/minority-unemployment/discussion.pdf" %}}Discussion{{% /staticref %}} at the Federal Reserve System Macro Meeting, November 2021
+Munseob Lee, Claudia Macaluso and Felipe Schwartzman: *Minority Unemployment, Inflation, and Monetary Policy*
+- {{% staticref "files/minority-unemployment/paper.pdf" %}}Paper{{% /staticref %}}, {{% staticref "files/minority-unemployment/discussion.pdf" %}}Discussion{{% /staticref %}} at the Federal Reserve System Macro Meeting, November 2021
 
