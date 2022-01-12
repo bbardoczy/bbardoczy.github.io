@@ -24,6 +24,7 @@ interests:
 - Macroeconomics
 - Monetary Policy
 - Labor Economics
+- Computational Methods
 
 education:
   courses:
@@ -74,5 +75,7 @@ user_groups:
 ---
 
 I am an Economist at the [Federal Reserve Board of Governors](https://www.federalreserve.gov/econres/bence-a-bardoczy.htm), where I serve in the [Macroeconomic and Quantitative Studies](https://www.federalreserve.gov/econres/rsmaqs-staff.htm) section within the Division of Research and Statistics. My research focuses on how micro heterogeneity interacts with the macroeconomy and affects economic policy.
+
+I am part of the development team for [Sequence-Space Jacobian](https://github.com/shade-econ/sequence-jacobian). A Python toolkit for analyzing dynamic macroeconomic models with (or without) rich microeconomic heterogeneity.
 
 This is a personal website. The views expressed on this website are my own and do not necessarily reflect those of the Board of Governors or the Federal Reserve System.
