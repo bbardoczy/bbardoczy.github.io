@@ -13,7 +13,7 @@ publishDate: 2022-04-30T12:36:38+02:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Job Market Paper"
+publication: "New draft"
 publication_short: ""
 
 abstract: "I develop a Heterogeneous-Agent New Keynesian model with dual earner households that matches existing microeconomic evidence on the response of household earnings and consumption to job loss. My model suggests that the low average response of spousal earnings masks its heterogeneous and indirect benefits for consumption smoothing. At the macro level, countercyclical labor supply of secondary earners can stabilize aggregate demand but it also crowds out primary earners searching for jobs. My model predicts that the aggregate demand channel dominates, and spousal insurance is an effective automatic stabilizer."
