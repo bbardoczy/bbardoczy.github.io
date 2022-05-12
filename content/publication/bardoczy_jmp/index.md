@@ -1,10 +1,10 @@
 ---
 title: "Spousal Insurance and the Amplification of Business Cycles"
 authors: ["Bence Bardóczy"]
-date: 2020-12-05
+date: 2022-04-30
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-09-08T12:36:38+02:00
+publishDate: 2022-04-30T12:36:38+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publication_types: ["3"]
 publication: "Job Market Paper"
 publication_short: ""
 
-abstract: "I document that spousal labor supply substantially mitigates the impact of cyclical labor income risk on married households. Motivated by this evidence, I present a macroeconomic model with incomplete markets in which households are heterogeneous by gender and marital status. Couples can smooth their consumption over the business cycle better than singles because (i) spouses rarely lose their jobs at the same time; and (ii) secondary earners can increase their labor supply on the extensive margin in response to a job loss of the primary earner. According to my estimated model, spousal insurance mitigates the volatility of aggregate consumption by about 40%. Spousal insurance acts as a powerful automatic stabilizer because it weakens the general-equilibrium feedback between unemployment risk and economic activity. My model clarifies the circumstances under which this automatic stabilizer is stronger or weaker. Spousal insurance is particularly powerful in recessions caused by traditional demand shocks. It is less powerful in recessions caused by shocks like the current COVID epidemic."
+abstract: "I develop a Heterogeneous-Agent New Keynesian model with dual earner households that matches existing microeconomic evidence on the response of household earnings and consumption to job loss. My model suggests that the low average response of spousal earnings masks its heterogeneous and indirect benefits for consumption smoothing. At the macro level, countercyclical labor supply of secondary earners can stabilize aggregate demand but it also crowds out primary earners searching for jobs. My model predicts that the aggregate demand channel dominates, and spousal insurance is an effective automatic stabilizer."
 
 # Summary. An optional shortened abstract.
 summary: ""
