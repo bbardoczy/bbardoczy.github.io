@@ -16,7 +16,7 @@ publication_types: ["3"]
 publication: "Draft coming soon"
 publication_short: ""
 
-abstract: "We study the power of state-dependent unemployment insurance (UI) in stabilizing short-run fluctuations in a heterogeneous-agent economy in which agents' beliefs may deviate from rational expectations. Managing expectations is key in this application because higher UI generosity raises consumption, partly, by reducing precautionary saving. If the policy is implemented as a contingent rule that indexes benefits to the unemployment rate, households have to forecast it to anticipate the policy stance. First, we solve the model with a list of popular models of belief formation from the literature, including shallow reasoning, k-level thinking, cognitive discounting, adaptive learning and more. Second, we solve the model with a flexible semi-parametric model of beliefs that we estimate from systematic forecast errors of the unemployment rate in the Survey of Professional Forecasters. We find large efficiency loss, in terms of output stabilization, due to imperfect anticipation of higher benefits."
+abstract: "We propose a flexible semi-parametric model of beliefs about macroeconomic outcomes that nests rational expectations, shallow reasoning, cognitive discounting, and adaptive learning among others. Under some restrictions on heterogeneity in beliefs, our framework is tractable in general equilibrium models with rich microeconomic heterogeneity. As an application, we study the power of state-dependent unemployment insurance (UI) in stabilizing short-run fluctuations. Managing expectations is key in this application because higher UI generosity raises consumption, partly, by reducing precautionary saving. If the policy is implemented as a contingent rule that indexes benefits to the unemployment rate, households have to forecast it to anticipate the policy stance. First, we quantify beliefs about the unemployment rate using systematic forecast errors from the Survey of Professional Forecasters. Second, we assign the estimated model of belief formation to households in a quantitative Heterogeneous Agent New Keynesian model with search frictions. We find large efficiency loss, in terms of output stabilization, due to imperfect anticipation of higher benefits."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -46,7 +46,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Average forecast of unemployment rate during the Great Recession"
   focal_point: ""
   preview_only: false
 
