@@ -1,7 +1,7 @@
 ---
 title: "Using the Sequence-Space Jacobian to Solve and Estimate Heterogeneous-Agent Models"
 
-date: 2021-09-17
+date: 2021-03-15
 
 publishDate: 2021-09-20T14:37:16.459582Z
 
@@ -15,7 +15,7 @@ abstract: "We propose a general and highly efficient method for solving and esti
 
 featured: false
 
-publication: "Econometrica 89(5), pp. 2375--2408"
+publication: "_Econometrica_ 89(5), pp. 2375--2408"
 
 url_code: https://github.com/shade-econ/sequence-jacobian
 
