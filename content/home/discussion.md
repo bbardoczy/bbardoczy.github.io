@@ -17,6 +17,9 @@ header:
 
 #### Conference Discussions
 
+Jiequn Han, Yucheng Yang, Weinan E: *DeepHAM: A Global Solution Method for Heterogeneous Agent Models with Aggregate Shocks*\
+{{% staticref "files/deepham/DeepHAM_paper.pdf" %}}Paper{{% /staticref %}}, {{% staticref "files/deepham/bardoczy_discussion_deepham.pdf" %}}Discussion{{% /staticref %}} at the 5th Conference on Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics, November 2023
+
 Beatriz González, Galo Nuño, Dominik Thaler, Silvia Albrizio: *Firm Heterogeneity, Capital Misallocation, and Optimal Monetary Policy*\
 {{% staticref "files/ramsey-hank/GNTA_May22.pdf" %}}Paper{{% /staticref %}}, {{% staticref "files/ramsey-hank/discussion.pdf" %}}Discussion{{% /staticref %}} at the International Research Forum on Monetary Policy, May 2022
 
