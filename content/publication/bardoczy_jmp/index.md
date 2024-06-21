@@ -13,7 +13,7 @@ publishDate: 2022-08-15T12:36:38+02:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "New draft"
+publication: "Job Market Paper (dormant)"
 publication_short: ""
 
 abstract: "I develop a Heterogeneous Agent New Keynesian model with dual-earner households that offers new insights into the role of spousal labor supply at both the micro and the macro levels. The model matches existing microeconomic evidence on the response of household earnings and consumption to the job loss of the primary earner. Specifically, it implies that the average job loser suffers large income loss, only a small fraction of which is compensated by the spouse. Nevertheless, the model reveals that this low average spousal earnings response to job loss masks substantial benefits for consumption smoothing. Looking at the average income replaced by the spouse is misleading for two reasons: heterogeneity and interdependence between different margins of the adjustment. At the macro level, countercyclical labor supply of secondary earners can stabilize aggregate demand but it also crowds out primary earners searching for jobs. The model implies that the aggregate demand channel dominates, and spousal insurance is an effective automatic stabilizer."
