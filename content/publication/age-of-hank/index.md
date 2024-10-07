@@ -16,10 +16,10 @@ publication_types: ["3"]
 publication: "Working Paper"
 publication_short: ""
 
-abstract: "We study the aggregate and distributional effects of monetary policy in a heterogeneous agent New Keynesian model that explicitly represents the life cycle of households. The model matches the age patterns in the level and dispersion of labor income and financial wealth in the U.S. despite the absence of preference heterogeneity and portfolio adjustment costs. Monetary policy affects the consumption of young households mainly through labor income and the consumption of old households mainly through asset returns. More than half of the aggregate consumption response to an expansionary monetary policy shock comes from those below the age of 40. The shock redistributes welfare from the wealthiest old to the poorest young and increases average welfare of most cohorts."
+abstract: "We study monetary policy in a heterogeneous agent New Keynesian model that represents the life cycle of households. The model matches the distribution of labor income and wealth by age. It also produces a realistic distribution of MPCs. Monetary policy shocks affect young households mainly through labor income and old households mainly through asset returns. Most young households are hand-to-mouth and benefit from rising labor demand. Older households receive lower returns on their retirement savings. Almost all of the aggregate consumption response comes from working-age households. An unanticipated monetary easing redistributes welfare from the wealthiest old to the poorest young."
 
 # Summary. An optional shortened abstract.
-summary: "A full-blown HANK model with life cycle"
+summary: "A full-blown HANK model with a life cycle"
 
 tags: []
 categories: []
@@ -46,7 +46,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "The Transmission of Monetary Easing Across the Life Cycle"
+  caption: "Transmission of an Expansionary Monetary Policy Shock Across the Life Cycl"
   focal_point: ""
   preview_only: false
 
